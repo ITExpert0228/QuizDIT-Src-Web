@@ -24,7 +24,7 @@
     "buffer": "^5.2.1",
     "colyseus": "^0.10.9",
     "colyseus.js": "^0.10.8",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "native-base": "^2.13.4",
     "react": "^16.4.1",
     "react-art": "^16.4.1",
